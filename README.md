@@ -1,4 +1,4 @@
-# Caso práctico de Procesadores del Lenguaje 2019/2020
+# Caso práctico de Procesadores del Lenguaje
 
 Traductor predictivo, recursivo y descendente para un subconjunto de instrucciones de un lenguaje similar a C. Requisitos:
 
